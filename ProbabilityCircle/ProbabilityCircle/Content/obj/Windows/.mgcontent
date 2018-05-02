@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/font.spritefont</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/fontLarge.spritefont</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/100x100circle.png</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/300x300circle.png</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/500x500circle.png</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/700x700circle.png</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/800x800sq.jpg</File>
+    <File>H:/Downloads and Files/ProbabilityCircle/ProbabilityCircle/ProbabilityCircle/Content/xMark.png</File>
+  </SourceFiles>
+</SourceFileCollection>
